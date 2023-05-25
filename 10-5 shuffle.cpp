@@ -8,6 +8,7 @@ void print(vector<int> &T)
 	for(vector<int>::iterator it=T.begin();it!=T.end();it++)
 		cout<<*it<<"\t";
 	cout<<endl;
+
 }
 
 int main() 
